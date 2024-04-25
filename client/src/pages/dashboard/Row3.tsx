@@ -205,11 +205,10 @@ const Row3 = () => {
             width="40%"
           ></Box>
         </Box>
-        <Typography margin="0 1rem" variant="h6">
-          Orci aliquam enim vel diam. Venenatis euismod id donec mus lorem etiam
-          ullamcorper odio sed. Ipsum non sed gravida etiam urna egestas
-          molestie volutpat et. Malesuada quis pretium aliquet lacinia ornare
-          sed. In volutpat nullam at est id cum pulvinar nunc.
+        <Typography margin="0 1rem" padding='1rem 0' variant="h6">
+            The goal of overall summary and explanation of data is to turn raw information into usable knowledge.
+            This knowledge can be used for various purposes, like making informed decisions,
+            identifying problems, or testing hypotheses.
         </Typography>
       </DashboardBox>
     </>
